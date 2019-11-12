@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Three%2520records/</loc>
+    
+    <lastmod>2019-11-12T14:03:40.975Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/The%2520train/</loc>
     
     <lastmod>2019-11-12T14:02:42.385Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/Midautum/</loc>
     
     <lastmod>2019-11-12T13:52:36.369Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Three%2520records/</loc>
-    
-    <lastmod>2019-11-12T13:48:14.052Z</lastmod>
     
   </url>
   
