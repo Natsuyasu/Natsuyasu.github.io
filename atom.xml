@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+  <title>基地存放作战记录</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-11-12T12:18:07.208Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Natsuyasu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>题于里封的白纸</title>
+    <link href="http://yoursite.com/hello-world/"/>
+    <id>http://yoursite.com/hello-world/</id>
+    <published>2019-11-12T12:14:00.000Z</published>
+    <updated>2019-11-12T12:18:07.208Z</updated>
+    
+    <content type="html"><![CDATA[<p>那时我还是一个年轻人，踌躇满志。我很年轻，生活就像一座金矿等着我来挖掘。因此当他们说要把我调到那里工作时，我毫不犹豫地一口答应下来，甚至在出发的前一晚激动得睡不着觉。现在想起来难免显得讽刺，但我并不责怪那个年轻人。年轻人就算被命令前往地狱也会高歌，他们轻而易举地相信自己就是那个救世主，踩着小羔羊一样轻快的步子往火坑里跳。但事已至此，我没有什么可后悔的。那个年轻人早就死了，而我也快要死了。但至少在我死之前，我想找点事做。我不想就这样死……可我也该认命了。一支手电和半本从废墟里捡到的圣经，这就是我全部的陪葬了。那些怪物在外头不论白天黑夜地游荡，发出嘶吼。胆敢离开这个藏身处的人都死了，只剩下我被活埋在这个地下室里。我已经连续两天没有吃过任何东西了……我把圣经的书页撕了下来写我最后的回忆录……请神原谅，看在那个年轻人的份上，您会让我到天堂去的……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;那时我还是一个年轻人，踌躇满志。我很年轻，生活就像一座金矿等着我来挖掘。因此当他们说要把我调到那里工作时，我毫不犹豫地一口答应下来，甚至在出发的前一晚激动得睡不着觉。现在想起来难免显得讽刺，但我并不责怪那个年轻人。年轻人就算被命令前往地狱也会高歌，他们轻而易举地相信自己就是
+      
+    
+    </summary>
+    
+    
+      <category term="text" scheme="http://yoursite.com/categories/text/"/>
+    
+    
+      <category term="前传" scheme="http://yoursite.com/tags/%E5%89%8D%E4%BC%A0/"/>
+    
+      <category term="John Doe" scheme="http://yoursite.com/tags/John-Doe/"/>
+    
+  </entry>
+  
+</feed>
