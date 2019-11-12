@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Night/</loc>
+    
+    <lastmod>2019-11-12T13:41:34.616Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/PRE2/</loc>
+    
+    <lastmod>2019-11-12T13:39:49.168Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/PRE-doctor-escape/</loc>
+    
+    <lastmod>2019-11-12T13:39:34.581Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/PRE1/</loc>
     
     <lastmod>2019-11-12T13:35:17.410Z</lastmod>
