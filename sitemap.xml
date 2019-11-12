@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Three%2520records/</loc>
+    
+    <lastmod>2019-11-12T14:51:21.130Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/The%2520train/</loc>
     
     <lastmod>2019-11-12T14:49:49.791Z</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>http://yoursite.com/PRE1/</loc>
-    
-    <lastmod>2019-11-12T13:35:17.410Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/PRE1%2520-%2520%25E5%2589%25AF%25E6%259C%25AC%2520(4)/</loc>
     
     <lastmod>2019-11-12T13:35:17.410Z</lastmod>
     
