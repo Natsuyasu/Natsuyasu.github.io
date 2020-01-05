@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/hello-world/</loc>
+    
+    <lastmod>2020-01-05T09:59:23.156Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/backgrounds/</loc>
     
     <lastmod>2020-01-04T08:25:31.506Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://yoursite.com/PRE1/</loc>
     
     <lastmod>2019-11-12T13:35:17.410Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/hello-world/</loc>
-    
-    <lastmod>2019-11-12T12:18:07.208Z</lastmod>
     
   </url>
   
